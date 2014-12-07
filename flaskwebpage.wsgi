@@ -1,4 +1,4 @@
 import sys
 sys.path.insert(0, '/var/www/FlaskApp')
 
-from app import {app global variable in app.py} as application
+from FlaskApp import app as application
